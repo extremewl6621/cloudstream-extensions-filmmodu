@@ -60,7 +60,7 @@ class FilmmoduProvider : MainAPI() {
 
         val scriptTag = doc.selectFirst("script:containsData(sources)")?.data()
 
-        val videoUrl = Regex("""file["']?\s*:\s*["'](https?[^"']+)["']""")
+        val videoUrl = Regex("file["']?\s*:\s*["'](https?[^"']+)["']")
             .find(scriptTag ?: "")?.groupValues?.get(1)
 
         if (videoUrl != null) {
