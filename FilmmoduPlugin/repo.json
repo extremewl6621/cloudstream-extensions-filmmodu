@@ -1,8 +1,0 @@
-{
-    "name": "Turkish Providers Repository | @extremewl",
-    "description": "Film izle",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/extremewl6621/cloudstream-extensions-filmmodu/refs/heads/main/plugin.json"
-    ]
-}
