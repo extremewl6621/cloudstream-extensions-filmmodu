@@ -1,0 +1,8 @@
+{
+  "name": "Filmmodu Repository",
+  "description": "Filmmodu sitesi için özel eklenti",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/extremewl6621/cloudstream-extensions-filmmodu/main/plugins.json"
+  ]
+}

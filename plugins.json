@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Filmmodu",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/extremewl6621/cloudstream-extensions-filmmodu/main/FilmmoduPlugin.zip",
+    "description": "filmmodu.nl sitesinden film stream etmek için eklenti.",
+    "package": "com.filmmodu.plugin"
+  }
+]
